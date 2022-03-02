@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-main()
+int main(void)
 {
     int intP, intCircle, intSquare, intToss, intRM, i;
     float fltPi, fltX, fltY, fltR;
